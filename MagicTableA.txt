@@ -1,0 +1,100 @@
+1:Potion of Healing
+2:Potion of Healing
+3:Potion of Healing
+4:Potion of Healing
+5:Potion of Healing
+6:Potion of Healing
+7:Potion of Healing
+8:Potion of Healing
+9:Potion of Healing
+10:Potion of Healing
+11:Potion of Healing
+12:Potion of Healing
+13:Potion of Healing
+14:Potion of Healing
+15:Potion of Healing
+16:Potion of Healing
+17:Potion of Healing
+18:Potion of Healing
+19:Potion of Healing
+20:Potion of Healing
+21:Potion of Healing
+22:Potion of Healing
+23:Potion of Healing
+24:Potion of Healing
+25:Potion of Healing
+26:Potion of Healing
+27:Potion of Healing
+28:Potion of Healing
+29:Potion of Healing
+30:Potion of Healing
+31:Potion of Healing
+32:Potion of Healing
+33:Potion of Healing
+34:Potion of Healing
+35:Potion of Healing
+36:Potion of Healing
+37:Potion of Healing
+38:Potion of Healing
+39:Potion of Healing
+40:Potion of Healing
+41:Potion of Healing
+42:Potion of Healing
+43:Potion of Healing
+44:Potion of Healing
+45:Potion of Healing
+46:Potion of Healing
+47:Potion of Healing
+48:Potion of Healing
+49:Potion of Healing
+50:Potion of Healing
+51:Spell Scroll (cantrip)
+52:Spell Scroll (cantrip)
+53:Spell Scroll (cantrip)
+54:Spell Scroll (cantrip)
+55:Spell Scroll (cantrip)
+56:Spell Scroll (cantrip)
+57:Spell Scroll (cantrip)
+58:Spell Scroll (cantrip)
+59:Spell Scroll (cantrip)
+60:Spell Scroll (cantrip)
+61:Potion of Climbing
+62:Potion of Climbing
+63:Potion of Climbing
+64:Potion of Climbing
+65:Potion of Climbing
+66:Potion of Climbing
+67:Potion of Climbing
+68:Potion of Climbing
+69:Potion of Climbing
+70:Potion of Climbing
+71:Spell Scroll (1st Level)
+72:Spell Scroll (1st Level)
+73:Spell Scroll (1st Level)
+74:Spell Scroll (1st Level)
+75:Spell Scroll (1st Level)
+76:Spell Scroll (1st Level)
+77:Spell Scroll (1st Level)
+78:Spell Scroll (1st Level)
+79:Spell Scroll (1st Level)
+80:Spell Scroll (1st Level)
+81:Spell Scroll (1st Level)
+82:Spell Scroll (1st Level)
+83:Spell Scroll (1st Level)
+84:Spell Scroll (1st Level)
+85:Spell Scroll (1st Level)
+86:Spell Scroll (1st Level)
+87:Spell Scroll (1st Level)
+88:Spell Scroll (1st Level)
+89:Spell Scroll (1st Level)
+90:Spell Scroll (1st Level)
+91:Spell Scroll (2nd Level)
+92:Spell Scroll (2nd Level)
+93:Spell Scroll (2nd Level)
+94:Spell Scroll (2nd Level)
+95:Potion of Greater Healing
+96:Potion of Greater Healing
+97:Potion of Greater Healing
+98:Potion of Greater Healing
+99:Bag of Holding
+100:Driftglobe

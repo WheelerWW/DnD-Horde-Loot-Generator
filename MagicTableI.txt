@@ -1,0 +1,100 @@
+1:Defender
+2:Defender
+3:Defender
+4:Defender
+5:Defender
+6:Hammer of Thunderbolts
+7:Hammer of Thunderbolts
+8:Hammer of Thunderbolts
+9:Hammer of Thunderbolts
+10:Hammer of Thunderbolts
+11:Luck Blade
+12:Luck Blade
+13:Luck Blade
+14:Luck Blade
+15:Luck Blade
+16:Sword of Answering
+17:Sword of Answering
+18:Sword of Answering
+19:Sword of Answering
+20:Sword of Answering
+21:Holy Avenger
+22:Holy Avenger
+23:Holy Avenger
+24:Ring of Djinni Summoning
+25:Ring of Djinni Summoning
+26:Ring of Djinni Summoning
+27:Ring of Invisibility
+28:Ring of Invisibility
+29:Ring of Invisibility
+30:Ring of Spell Turning
+31:Ring of Spell Turning
+32:Ring of Spell Turning
+33:Rod of Lordly Might
+34:Rod of Lordly Might
+35:Rod of Lordly Might
+36:Staff of the Magi
+37:Staff of the Magi
+38:Staff of the Magi
+39:Vorpal Sword
+40:Vorpal Sword
+41:Vorpal Sword
+42:Belt of Cloud Giant Strength
+43:Belt of Cloud Giant Strength
+44:Armor, +2 Breastplate
+45:Armor, +2 Breastplate
+46:Armor, +3 Chainmail
+47:Armor, +3 Chainmail
+48:Armor, +3 Chain Shirt
+49:Armor, +3 Chain Shirt
+50:Cloak of Invisibility
+51:Cloak of Invisibility
+52:Crystal Ball (legendary version)
+53:Crystal Ball (legendary version)
+54:Armor, +1 Half Plate
+55:Armor, +1 Half Plate
+56:Iron Flask
+57:Iron Flask
+58:Armor, +3 Leather
+59:Armor, +3 Leather
+60:Armor, +1 Full Plate
+61:Armor, +1 Full Plate
+62:Robe of the Archmagi
+63:Robe of the Archmagi
+64:Rod of Resurrection
+65:Rod of Resurrection
+66:Armor, +1 Scale Mail
+67:Armor, +1 Scale Mail
+68:Scarab of Protection
+69:Scarab of Protection
+70:Armor, +2 Splint
+71:Armor, +2 Splint
+72:Armor, +2 Studded Leather
+73:Armor, +2 Studded Leather
+74:Well of Many Worlds
+75:Well of Many Worlds
+76:Magic Armor (roll d12)
+77:Apparatus of Kwalish
+78:Armor of Infulnerability
+79:Belt of Storm Giant Strength
+80:Cubic Gate
+81:Deck of Many Things
+82:Efreeti Chain
+83:Armor of Resistance (Half Plate)
+84:Horn of Valhalla (iron)
+85:Instrument of the Bards (Ollamh Harp)
+86:Ioun Stone (Greater Absorption)
+87:Ioun Stone (Mastery)
+88:Ioun Stone (Regeneration)
+89:Plate Armor of Etherealness
+90:Plate Armor of Resistance
+91:Ring of Air Elemental Command
+92:Ring of Earth Elemental Command
+93:Ring of Fire Elemental Command
+94:Ring of Three Wishes
+95:Ring of Water Elemental Command
+96:Sphere of Annihilation
+97:Talisman of Pure Good
+98:Talisman of the Sphere
+99:Talisman of Ultimate Evil
+100:Tome of the Stilled Tongue
