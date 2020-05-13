@@ -1,0 +1,100 @@
+1:Potion of Greater Healing
+2:Potion of Greater Healing
+3:Potion of Greater Healing
+4:Potion of Greater Healing
+5:Potion of Greater Healing
+6:Potion of Greater Healing
+7:Potion of Greater Healing
+8:Potion of Greater Healing
+9:Potion of Greater Healing
+10:Potion of Greater Healing
+11:Potion of Greater Healing
+12:Potion of Greater Healing
+13:Potion of Greater Healing
+14:Potion of Greater Healing
+15:Potion of Greater Healing
+16:Potion of Dragon Breath
+17:Potion of Dragon Breath
+18:Potion of Dragon Breath
+19:Potion of Dragon Breath
+20:Potion of Dragon Breath
+21:Potion of Dragon Breath
+22:Potion of Dragon Breath
+23:Potion of Resistance
+24:Potion of Resistance
+25:Potion of Resistance
+26:Potion of Resistance
+27:Potion of Resistance
+28:Potion of Resistance
+29:Potion of Resistance
+30:Ammunition, +1
+31:Ammunition, +1
+32:Ammunition, +1
+33:Ammunition, +1
+34:Ammunition, +1
+35:Potion of Animal Friendship
+36:Potion of Animal Friendship
+37:Potion of Animal Friendship
+38:Potion of Animal Friendship
+39:Potion of Animal Friendship
+40:Potion of Hill Giant Strength
+41:Potion of Hill Giant Strength
+42:Potion of Hill Giant Strength
+43:Potion of Hill Giant Strength
+44:Potion of Hill Giant Strength
+45:Potion of Growth
+46:Potion of Growth
+47:Potion of Growth
+48:Potion of Growth
+49:Potion of Growth
+50:Potion of Water Breathing
+51:Potion of Water Breathing
+52:Potion of Water Breathing
+53:Potion of Water Breathing
+54:Potion of Water Breathing
+55:Spell Scroll (2nd level)
+56:Spell Scroll (2nd level)
+57:Spell Scroll (2nd level)
+58:Spell Scroll (2nd level)
+59:Spell Scroll (2nd level)
+60:Spell Scroll (3rd level)
+61:Spell Scroll (3rd level)
+62:Spell Scroll (3rd level)
+63:Spell Scroll (3rd level)
+64:Spell Scroll (3rd level)
+65:Bag of Holding
+66:Bag of Holding
+67:Bag of Holding
+68:Keoghtom's Ointment
+69:Keoghtom's Ointment
+70:Keoghtom's Ointment
+71:Oil of Slipperiness
+72:Oil of Slipperiness
+73:Oil of Slipperiness
+74:Dust of Disappearance
+75:Dust of Disappearance
+76:Dust of Dryness
+77:Dust of Dryness
+78:Dust of Sneezing and Choking
+79:Dust of Sneezing and Choking
+80:Elemental Gem
+81:Elemental Gem
+82:Philter of Love
+83:Philter of Love
+84:Alchemy Jug
+85:Cap of Water Breathing
+86:Cloak of the Manta Ray
+87:Driftglobe
+88:Goggles of Night
+89:Helm of Comprehending Languages
+90:Immovable Rod
+91:Lantern of Revealing
+92:Mariner's Armor
+93:Mithral Armor
+94:Potion of Poison
+95:Ring of Swimming
+96:Robe of Useful Items
+97:Rope of Climbing
+98:Saddle of the Cavalier
+99:Wand of Magic Detection
+100:Wand of Secrets

@@ -1,0 +1,100 @@
+1:Spell Scroll (8th Level)
+2:Spell Scroll (8th Level)
+3:Spell Scroll (8th Level)
+4:Spell Scroll (8th Level)
+5:Spell Scroll (8th Level)
+6:Spell Scroll (8th Level)
+7:Spell Scroll (8th Level)
+8:Spell Scroll (8th Level)
+9:Spell Scroll (8th Level)
+10:Spell Scroll (8th Level)
+11:Spell Scroll (8th Level)
+12:Spell Scroll (8th Level)
+13:Spell Scroll (8th Level)
+14:Spell Scroll (8th Level)
+15:Spell Scroll (8th Level)
+16:Spell Scroll (8th Level)
+17:Spell Scroll (8th Level)
+18:Spell Scroll (8th Level)
+19:Spell Scroll (8th Level)
+20:Spell Scroll (8th Level)
+21:Spell Scroll (8th Level)
+22:Spell Scroll (8th Level)
+23:Spell Scroll (8th Level)
+24:Spell Scroll (8th Level)
+25:Spell Scroll (8th Level)
+26:Spell Scroll (8th Level)
+27:Spell Scroll (8th Level)
+28:Spell Scroll (8th Level)
+29:Spell Scroll (8th Level)
+30:Spell Scroll (8th Level)
+31:Potion of Storm Giant Strength
+32:Potion of Storm Giant Strength
+33:Potion of Storm Giant Strength
+34:Potion of Storm Giant Strength
+35:Potion of Storm Giant Strength
+36:Potion of Storm Giant Strength
+37:Potion of Storm Giant Strength
+38:Potion of Storm Giant Strength
+39:Potion of Storm Giant Strength
+40:Potion of Storm Giant Strength
+41:Potion of Storm Giant Strength
+42:Potion of Storm Giant Strength
+43:Potion of Storm Giant Strength
+44:Potion of Storm Giant Strength
+45:Potion of Storm Giant Strength
+46:Potion of Storm Giant Strength
+47:Potion of Storm Giant Strength
+48:Potion of Storm Giant Strength
+49:Potion of Storm Giant Strength
+50:Potion of Storm Giant Strength
+51:Potion of Storm Giant Strength
+52:Potion of Storm Giant Strength
+53:Potion of Storm Giant Strength
+54:Potion of Storm Giant Strength
+55:Potion of Storm Giant Strength
+56:Potion of Supreme Healing
+57:Potion of Supreme Healing
+58:Potion of Supreme Healing
+59:Potion of Supreme Healing
+60:Potion of Supreme Healing
+61:Potion of Supreme Healing
+62:Potion of Supreme Healing
+63:Potion of Supreme Healing
+64:Potion of Supreme Healing
+65:Potion of Supreme Healing
+66:Potion of Supreme Healing
+67:Potion of Supreme Healing
+68:Potion of Supreme Healing
+69:Potion of Supreme Healing
+70:Potion of Supreme Healing
+71:Spell Scroll (9th Level)
+72:Spell Scroll (9th Level)
+73:Spell Scroll (9th Level)
+74:Spell Scroll (9th Level)
+75:Spell Scroll (9th Level)
+76:Spell Scroll (9th Level)
+77:Spell Scroll (9th Level)
+78:Spell Scroll (9th Level)
+79:Spell Scroll (9th Level)
+80:Spell Scroll (9th Level)
+81:Spell Scroll (9th Level)
+82:Spell Scroll (9th Level)
+83:Spell Scroll (9th Level)
+84:Spell Scroll (9th Level)
+85:Spell Scroll (9th Level)
+86:Universal Solvent
+87:Universal Solvent
+88:Universal Solvent
+89:Universal Solvent
+90:Universal Solvent
+91:Universal Solvent
+92:Universal Solvent
+93:Universal Solvent
+94:Arrow of Slaying
+95:Arrow of Slaying
+96:Arrow of Slaying
+97:Arrow of Slaying
+98:Arrow of Slaying
+99:Sovereign Glue
+100:Sovereign Glue

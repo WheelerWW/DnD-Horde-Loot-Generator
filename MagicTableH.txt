@@ -1,0 +1,100 @@
+1:Weapon, +3
+2:Weapon, +3
+3:Weapon, +3
+4:Weapon, +3
+5:Weapon, +3
+6:Weapon, +3
+7:Weapon, +3
+8:Weapon, +3
+9:Weapon, +3
+10:Weapon, +3
+11:Amulet of the Planes
+12:Amulet of the Planes
+13:Carpet of Flying
+14:Carpet of Flying
+15:Crystal Ball (very rare version)
+16:Crystal Ball (very rare version)
+17:Ring of Regeneration
+18:Ring of Regeneration
+19:Ring of Shooting Stars
+20:Ring of Shooting Stars
+21:Ring of Telekinesis
+22:Ring of Telekinesis
+23:Robe of Scintillating Colors
+24:Robe of Scintillating Colors
+25:Robe of Stars
+26:Robe of Stars
+27:Rod of Absorption
+28:Rod of Absorption
+29:Rod of Alertness
+30:Rod of Alertness
+31:Rod of Security
+32:Rod of Security
+33:Rod of the Pact Keeper, +3
+34:Rod of the Pact Keeper, +3
+35:Scimitar of Speed
+36:Scimitar of Speed
+37:Shield, +3
+38:Shield, +3
+39:Staff of Fire
+40:Staff of Fire
+41:Staff of Frost
+42:Staff of Frost
+43:Staff of Power
+44:Staff of Power
+45:Staff of Striking
+46:Staff of Striking
+47:Staff of Thunder and Lightning
+48:Staff of Thunder and Lightning
+49:Sword of Sharpness
+50:Sword of Sharpness
+51:Wand of Polymorph
+52:Wand of Polymorph
+53:Wand of the War Mage, +3
+54:Wand of the War Mage, +3
+55:Adamantine Armor (Half Plate)
+56:Adamantine Armor (Full Plate)
+57:Animated Shield
+58:Belt of Fire Giant Strength
+59:Belt of Frost (or Stone) Giant Strength
+60:Armor, +1 Breastplate
+61:Armor of Resistance (Breastplate)
+62:Candle of Invocation
+63:Armor, +2 chain mail
+64:Armor, +2 chain shirt
+65:Cloak of Arachnida
+66:Dancing Sword
+67:Demon Armor
+68:Dragon Scail Mail
+69:Dwarven Plate
+70:Dwarven Thrower
+71:Efreeti Bottle
+72:Figurine of Wondrous Power (Obsidian Steed)
+73:Frost Brand
+74:Helm of Brilliance
+75:Horn of Valhalla (bronze)
+76:Instrument of the Bards (Anstruth Harp)
+77:Ioun Stone (Absorption)
+78:Ioun Stone (Agility)
+79:Ioun Stone (Fortitude)
+80:Ioun Stone (Insight)
+81:Ioun Stone (Intellect)
+82:Ioun Stone (Leadership)
+83:Ioun Stone (Strength)
+84:Armor, +2 Leather
+85:Manual of Bodily Health
+86:Manual of Gainful Exercise
+87:Manual of Golems
+88:Manual of Quickness of Action
+89:Mirror of Life Trapping
+90:Nine Lives Stealer
+91:Oathbow
+92:Armor, +2 Scale Mail
+93:Spellguard Shield
+94:Armor, +1 Splint
+95:Armor of Resistance (Splint)
+96:Armor, +1 Studded Leather
+97:Armor of Resistance (studded Leather)
+98:Tome of Clear Thoguht
+99:Tome of Leadership and Influence
+100:Tome of Understanding

@@ -1,0 +1,100 @@
+1:Potion of Superior Healing
+2:Potion of Superior Healing
+3:Potion of Superior Healing
+4:Potion of Superior Healing
+5:Potion of Superior Healing
+6:Potion of Superior Healing
+7:Potion of Superior Healing
+8:Potion of Superior Healing
+9:Potion of Superior Healing
+10:Potion of Superior Healing
+11:Potion of Superior Healing
+12:Potion of Superior Healing
+13:Potion of Superior Healing
+14:Potion of Superior Healing
+15:Potion of Superior Healing
+16:Spell Scroll (4th Level)
+17:Spell Scroll (4th Level)
+18:Spell Scroll (4th Level)
+19:Spell Scroll (4th Level)
+20:Spell Scroll (4th Level)
+21:Spell Scroll (4th Level)
+22:Spell Scroll (4th Level)
+23:Ammunition, +2
+24:Ammunition, +2
+25:Ammunition, +2
+26:Ammunition, +2
+27:Ammunition, +2
+28:Potion of Clairvoyance
+29:Potion of Clairvoyance
+30:Potion of Clairvoyance
+31:Potion of Clairvoyance
+32:Potion of Clairvoyance
+33:Potion of Diminution
+34:Potion of Diminution
+35:Potion of Diminution
+36:Potion of Diminution
+37:Potion of Diminution
+38:Potion of Gaseous Form
+39:Potion of Gaseous Form
+40:Potion of Gaseous Form
+41:Potion of Gaseous Form
+42:Potion of Gaseous Form
+43:Potion of Frost Giant Strength
+44:Potion of Frost Giant Strength
+45:Potion of Frost Giant Strength
+46:Potion of Frost Giant Strength
+47:Potion of Frost Giant Strength
+48:Potion of Stone Giant Strength
+49:Potion of Stone Giant Strength
+50:Potion of Stone Giant Strength
+51:Potion of Stone Giant Strength
+52:Potion of Stone Giant Strength
+53:Potion of Heroism
+54:Potion of Heroism
+55:Potion of Heroism
+56:Potion of Heroism
+57:Potion of Heroism
+58:Potion of Invulnerability
+59:Potion of Invulnerability
+60:Potion of Invulnerability
+61:Potion of Invulnerability
+62:Potion of Invulnerability
+63:Potion of Mind Reading
+64:Potion of Mind Reading
+65:Potion of Mind Reading
+66:Potion of Mind Reading
+67:Potion of Mind Reading
+68:Spell Scroll (5th Level)
+69:Spell Scroll (5th Level)
+70:Spell Scroll (5th Level)
+71:Spell Scroll (5th Level)
+72:Spell Scroll (5th Level)
+73:Elixir of Health
+74:Elixir of Health
+75:Elixir of Health
+76:Oil of Etherealness
+77:Oil of Etherealness
+78:Oil of Etherealness
+79:Potion of Fire Giant Strength
+80:Potion of Fire Giant Strength
+81:Potion of Fire Giant Strength
+82:Quaal's Feather Token
+83:Quaal's Feather Token
+84:Quaal's Feather Token
+85:Scroll of Protection
+86:Scroll of Protection
+87:Scroll of Protection
+88:Bag of Beans
+89:Bag of Beans
+90:Bead of Force
+91:Bead of Force
+92:Chime of Opening
+93:Decanter of Endless Water
+94:Eyes of Minute Seeing
+95:Folding Boat
+96:Heward's Handy Haverick
+97:Horseshoes of Speed
+98:Necklace of Fireballs
+99:Periapt of Health
+100:Sending Stones
